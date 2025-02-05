@@ -1,8 +1,4 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SouvickSarkar20/SouvickSarkar20/main/banner.png" alt="Banner" width="100%">
-</p>
-
 <h1 align="center">🚀 Welcome to My GitHub Profile! 👋</h1>
 
 <p align="center">

@@ -1,15 +1,18 @@
-# Souvick Sarkar
+# Hey, I'm Souvick 👋
 
-I build things that need to work — AI systems, cloud infrastructure, distributed stores.
----
+I'm a backend-leaning full-stack developer. I like knowing what's going on under the hood: how data moves, where things break, and why something is slow.
 
-Backend-first. I care about what happens under the hood — how data moves, 
-where things break, why something is slow. Go for systems work, 
-TypeScript for product work. I reach for the right tool, not the familiar one.
+## What I work with
 
-**Stack —** Go · TypeScript · Python · Node.js · React · Next.js  
-AWS · Docker · Redis · PostgreSQL 
+- **Languages:** Go, TypeScript, Python
+- **Frontend:** React, Next.js
+- **Infra and data:** AWS, Docker, Redis, PostgreSQL
 
----
+## Outside of work
 
-[LinkedIn](your-url) · souvicksarkarcbsa@gmail.com
+- I spend my weekends on open source, contributing to projects or starting my own.
+- I'm curious about networking: packets, protocols, and what really happens between hitting enter and getting a response.
+
+## Say hi
+
+PRs, issues, and random questions are welcome. If you're working on something interesting, I'd love to discuss.
